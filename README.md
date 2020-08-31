@@ -9,5 +9,5 @@ I'm an AI Enthusiast working in Mumbai, India.
 - 💬 Ask me about | **Research Approach** | **Technical Blogs** | **DL/ML resources**  |
 - 📫 How to reach me: mohanqwerty5@gmail.com  |   https://twitter.com/immohann
 - 📑 Read my blogs on Medium: https://medium.com/@immohann
-- ⚡ Fun fact: 🌌 Love to explore about Outer Space Stuff!
+- ⚡ Fun fact: 🌌 I love to explore about Outer Space Stuff!
 - 👾 Protfolio: [ < immohann / > ](https://immohann.github.io/Portfolio/) 
