@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there :octocat:
 I'm an AI Enthusiast working in Mumbai, India.
 
 
