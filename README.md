@@ -9,6 +9,7 @@ I'm an AI Enthusiast working in Mumbai, India.
 - 🔍 I’m looking for help with | **Docker** | **Advance CV** | 
 - 💬 Ask me about | **Research Approach** | **Technical Blogs** | **DL/ML resources**  |
 - 📫 How to reach me: mohanqwerty5@gmail.com  |   https://twitter.com/manmohan_dogra
+- 📑 Read my blogs on Medium: https://medium.com/@immohann
 - ⚡ Fun fact: 🌌 Love to explore about Outer Space Stuff!
 
 - 👾 Protfolio: [ < immohann / > ](https://immohann.github.io/Portfolio/) 
