@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?immohann=your-github-immohann)
-
-
 I'm an AI Enthusiast working in Mumbai, India.
 
 - 🏢 I’m working on | Deep Learning Projects |
