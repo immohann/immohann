@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 ![](https://komarev.com/ghpvc/?immohann=your-github-immohann)
-<!--
-**immohann/immohann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 I'm an AI Enthusiast working in Mumbai, India.
 
@@ -16,5 +15,4 @@ I'm an AI Enthusiast working in Mumbai, India.
   - LinkedIn: https://www.linkedin.com/in/manmohan-dogra-4a6655169/
   - Twitter: https://twitter.com/manmohan_dogra
 - ⚡ Fun fact: 🌌 Love to explore about Outer Space ! 
--->
 
