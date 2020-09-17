@@ -16,6 +16,6 @@ I'm an AI Enthusiast working in Mumbai, India.
 
 
 
-![Manmohan's github stats](https://github-readme-stats.vercel.app/api?username=immohann&show_icons=true&theme=algolia)
+![Manmohan's github stats](https://github-readme-stats.vercel.app/api?username=immohann&count_private=true&show_icons=true&theme=algolia)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=immohann&layout=compact&show_icons=true&theme=algolia)](https://github.com/immohann/github-readme-stats)
