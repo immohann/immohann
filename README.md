@@ -1,4 +1,4 @@
-### Hi there :octocat:
+### Hi, I'm Mohan :octocat:
 I'm an AI Enthusiast working in Mumbai, India.
 
 
