@@ -1,5 +1,5 @@
 ### Hi, I'm Mohan :octocat:
-I'm an AI Enthusiast working in Mumbai, India.
+I'm an AI Enthusiast working in Mumbai, India
 
 
 - 🔭 I’m working on | **Deep Learning Projects** | **Hybrid-Augmented Intelligence** | 
