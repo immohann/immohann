@@ -3,7 +3,7 @@ I'm an AI Enthusiast working in Mumbai, India
 
 
 - 🔭 I’m working on | **Deep Learning Projects** | **Hybrid-Augmented Intelligence** | 
-- 💬 Ask me about  | **Technical Blogs** | **DL/ML resources**  |
+- 💬 Ask me about  | **Technical writing** | **DL/ML resources**  |
 - 📫 Reach me at: mohanqwerty5@gmail.com  |   https://twitter.com/immohann
 - 📑 Read my blogs on Medium: https://medium.com/@immohann
 - 👾 Protfolio: [ < immohann / > ](https://immohann.github.io/Portfolio/) 
